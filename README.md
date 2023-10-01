@@ -6,6 +6,6 @@
 - 👋 Hi, I’m Kamila Medellel a student in computer science in France
 - 👀 I’m interested in coding video games and websites, but also graphism and music
 - 🌱 I’m currently learning java, c#, python, html and css and more in my studies
-- 💞️ I’m looking for an internship so if you're interested you can contact me on my email **kamimdlll@gmail**
+- 💞️ I’m looking for an internship so if you're interested you can contact me on my email **kamimdlll@gmail.com**
 
 
