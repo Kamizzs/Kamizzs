@@ -24,5 +24,10 @@ Je suis Kamila Medellel, j'étudie en deuxième année de BUT Informatique à l'
 ![Renpy](https://img.shields.io/badge/renpy-%73F25E1E.svg?style=for-the-badge&logo=renpy&logoColor=white) ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%2338B2AC.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![](https://github-readme-stats.vercel.app/api?username=kamizzs&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kamizzs&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamizzs&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
  
 
