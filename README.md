@@ -6,12 +6,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=EN;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+EN;)](https://git.io/typing-svg)
 
 Hi !
 I'm Kamila Medellel, a second year french student in the IUT Informatique of Bordeaux and I am currently looking for a work study program.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FR;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+FR;)](https://git.io/typing-svg)
 
 Salut !
 Je suis Kamila Medellel, j'étudie en deuxième année de BUT Informatique à l'IUT de Bordeaux et je suis actuellement en recherche d'alternance.
